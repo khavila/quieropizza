@@ -8,6 +8,6 @@ namespace quieropizza.web.Models
     public class ProductoModel
     {
         public int Id { get; set; }
-        public string Descripcion { get; set; } 
+        public string Descripcion { get; set; }
     }
 }

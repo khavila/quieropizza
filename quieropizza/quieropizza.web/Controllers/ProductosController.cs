@@ -32,7 +32,7 @@ namespace quieropizza.web.Controllers
 
             var producto5 = new ProductoModel();
             producto5.Id = 5;
-            producto5.Descripcion = "Pizza La MetLovers";
+            producto5.Descripcion = "Pizza MetLovers";
 
             var ListadeProductos = new List<ProductoModel>();
             ListadeProductos.Add(producto1);

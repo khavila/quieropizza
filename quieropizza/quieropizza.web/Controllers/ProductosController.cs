@@ -27,12 +27,12 @@ namespace quieropizza.web.Controllers
             producto3.Descripcion = "Pizza Peperonni";
 
             var producto4 = new ProductoModel();
-            producto3.Id = 4;
-            producto3.Descripcion = "Pizza Hawaiana";
+            producto4.Id = 4;
+            producto4.Descripcion = "Pizza Hawaiana";
 
             var producto5 = new ProductoModel();
-            producto3.Id = 5;
-            producto3.Descripcion = "Pizza La MetLovers";
+            producto5.Id = 5;
+            producto5.Descripcion = "Pizza La MetLovers";
 
             var ListadeProductos = new List<ProductoModel>();
             ListadeProductos.Add(producto1);
